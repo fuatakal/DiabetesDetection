@@ -3,6 +3,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
+import sklearn
 #import SessionState
 
 #session = SessionState.get(run_id=0)
